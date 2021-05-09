@@ -86,7 +86,7 @@ Conhecimentos Necessário:
 
 14) Disparando os dados do formulario para o metodo Store receber request e armazenar os dados no banco
          
-          -  public function store(Request $request) {  request->all();  }
+          -  public function store(Request $request) { $dados = $request->all();   }
 
 15) Implementar uma tabela no banco para receber os dados do metodo store
 
