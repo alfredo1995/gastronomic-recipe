@@ -441,7 +441,12 @@ Conhecimentos Necessário:
                        <a href="{{ route('Receita.index') }}" class="nav-link">Receitas</a>
                     </li>
         
-       
+     
+   
+   
+WHERE -> você pode buscar por qualquer atributo na tabela,
+		ex: ->where('email', $fornecedor->email)->where('fone', $fornecedor->fone),
+		ou seja, posso colocar várias cláusulassss
            
             
 <br><br><br><br> <br>
