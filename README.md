@@ -451,7 +451,7 @@ WHERE -> você pode buscar por qualquer atributo na tabela,
             
 <br><br><br><br> <br>
 
-Rotas criadas!
+Rotas criadas! 
 
 GET|HEAD  | Receita                | Receita.index    | App\http\Controllers\ReceitaController@index                           | web    <br>
 POST      | Receita                | Receita.store    | App\http\Controllers\ReceitaController@store                           | web    <br>
