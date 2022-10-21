@@ -4,7 +4,7 @@ API contem um sistema de autenticação completo (login, logoff e register). <br
 Após logado o usuário cadastrar novas receitas além de visualizar, editar ou excluir receitas já existentes.  
 
 Instalações Necessárias:
-    
+     
     --->  PHP 8 + COMPOSER + NODEJS +  XAMPP + MYSQL WORKBENCH  
  
 Conhecimentos Necessário: 
