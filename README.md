@@ -461,4 +461,4 @@ PUT|PATCH | Receita/{id}           | Receita.update   | App\http\Controllers\Rec
 DELETE    | Receita/{id}           | Receita.destroy  | App\http\Controllers\ReceitaController@destroy                         | web    <br>
 GET|HEAD  | Receita/{id}/edit      | Receita.edit     | App\http\Controllers\ReceitaController@edit                            | web    <br>
        
-->Documentação em construção ;) 
+->Documentação em construção ;)  
