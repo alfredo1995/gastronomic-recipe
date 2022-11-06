@@ -14,7 +14,7 @@ Conhecimentos Necessário:
 
 1) Iniciar o projeto 
        
-       - composer create-project --prefer-dist Laravel/Laravel receita_gastronomica
+       - composer create-project --prefer-dist Laravel/Laravel receita_gastronomica 
      
 2) Configurar o NODEJS para usar o pacote UI do Laravel
        
