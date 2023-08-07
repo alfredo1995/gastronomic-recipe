@@ -5,7 +5,7 @@ Após logado o usuário cadastrar novas receitas além de visualizar, editar ou 
 
 Instalações Necessárias:
      
-    --->  PHP 8 + COMPOSER + NODEJS +  XAMPP + MYSQL WORKBENCH  
+    --->  PHP 8 + COMPOSER + NODEJS +  XAMPP + MYSQL WORKBENCH   
  
 Conhecimentos Necessário: 
 
